@@ -27,4 +27,4 @@ dense_2 (Dense)              (None, 10)                1010
 
 
 ## Acknowledgments
-Wrieghts and Biases
+Weights and Biases
